@@ -2,6 +2,8 @@
 
 This is very symple lua library for Corona SDK.
 
+Video example - http://dmitry375.tumblr.com/post/81412956151/very-simple-particles-for-corona-sdk-in-about-60
+
 ## Documentation and example
 
     particles.pointFlow('particle.png', {
